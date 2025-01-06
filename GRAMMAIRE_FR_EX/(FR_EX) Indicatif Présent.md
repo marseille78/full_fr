@@ -1,3 +1,30 @@
+je parle
+tu parles
+il parle
+nous parlons
+vous parlez
+ils parlent --- parler (говорить, разговаривать)
+
+
+
+je mange
+tu manges
+il mange
+nous mangeons
+vous mangez
+ils mangent --- manger (есть, кушать)
+
+
+
+je finis
+tu finis
+il finit
+nous finissons
+vous finissez
+ils finissent --- finir (заканчивать)
+
+
+
 je vais
 tu vas
 il va
@@ -135,7 +162,7 @@ ils disent --- dire (сказать)
 
 je disparais
 tu disparais
-il disparaît/ait
+il disparait
 nous disparaissons
 vous disparaissez
 ils disparaissent --- disparaître (исчезать)
@@ -283,7 +310,7 @@ ils permettent --- permettre (позволять)
 
 je plais
 tu plais
-il plaît/ait
+il plait
 nous plaisons
 vous plaisez
 ils plaisent --- plaire (нравиться)
@@ -444,3 +471,21 @@ il veut
 nous voulons
 vous voulez
 ils veulent --- vouloir (хотеть)
+
+
+
+je conduis
+tu conduis
+il conduit
+nous conduisons
+vous conduisez
+ils conduisent --- conduire (водить машину)
+
+
+
+j'obtiens
+tu obtiens
+il obtient
+nous obtenons
+vous obtenez
+ils obtiennent --- obtenir (получать)

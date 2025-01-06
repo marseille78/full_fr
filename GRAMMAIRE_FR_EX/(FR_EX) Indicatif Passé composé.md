@@ -1,3 +1,15 @@
+j'ai parlé --- parler (говорить, разговаривать)
+
+
+
+j'ai mangé --- manger (есть, кушать)
+
+
+
+j'ai fini --- finir (заканчивать)
+
+
+
 je suis allé --- aller (идти, ехать)
 
 
@@ -191,3 +203,11 @@ j'ai vu --- voir (видеть)
 
 
 j'ai voulu --- vouloir (хотеть)
+
+
+
+j'ai conduit --- conduire (водить машину)
+
+
+
+j'ai obtenu --- obtenir (получать)
